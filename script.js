@@ -4,137 +4,29 @@
 ===================================================== */
 
 const products = [
-
-    {
-        name: "Crochet Key Holder",
-        price: 4000,
-        image: "images/key-holder.png"
-    },
-
-    
-       
-{
-    name: "Scrunchie",
-    price: 2500,
-    image: "images/scrunchie.png"
-},   
-
-
-    {
-        name: "Phone Pouch",
-        price: 4000,
-        image: "images/phone-pouch.png"
-    },
-
-    {
-        name: "Mini Purse",
-        price: 5000,
-        image: "images/mini-purse.png"
-    },
-
-    {
-        name: "Hand Bag",
-        price: 8000,
-        image: "images/hand-bag.png"
-    },
-
-    {
-        name: "Tote Bag",
-        price: 15000,
-        image: "images/tote-bag.png"
-    },
-
-    {
-        name: "Backpack",
-        price: 18000,
-        image: "images/backpack.png"
-    },
-
-    {
-        name: "Face Cap",
-        price: 5000,
-        image: "images/face-cap.png"
-    },
-
-    {
-        name: "Bucket Hat",
-        price: 6000,
-        image: "images/bucket-hat.png"
-    },
-
-    {
-        name: "Top Shirt",
-        price: 10000,
-        image: "images/top-shirt.png"
-    },
-
-    {
-        name: "Socks",
-        price: 4000,
-        image: "images/socks.png"
-    },
-
-    {
-        name: "Cardigan",
-        price: 18000,
-        image: "images/cardigan.png"
-    },
-
-    {
-        name: "Scarf",
-        price: 10000,
-        image: "images/scarf.png"
-    },
-
-    {
-        name: "Amigurumi",
-        price: 6000,
-        image: "images/amigurumi.png"
-    },
-
-    {
-        name: "Flower Bouquet",
-        price: 12000,
-        image: "images/flower-bouquet.png"
-    },
-
-    {
-        name: "Mug Holder",
-        price: 2500,
-        image: "images/mug-holder.png"
-    },
-
-    {
-        name: "Plant Holder",
-        price: 5000,
-        image: "images/plant-holder.png"
-    },
-
-    {
-        name: "Storage Basket",
-        price: 7000,
-        image: "images/storage-basket.png"
-    },
-
-    {
-        name: "Headband",
-        price: 2500,
-        image: "images/headband.png"
-    },
-
-    {
-        name: "Bracelet",
-        price: 1500,
-        image: "images/bracelet.png"
-    },
-
-    {
-        name: "Crochet Flower",
-        price: 2000,
-        image: "images/crochet-flower.png"
-    }
-
+    { name: "Crochet Key Holder", price: 4000, image: "key-holder.png" },
+    { name: "Scrunchie", price: 2500, image: "scrunchie.png" },
+    { name: "Phone Pouch", price: 4000, image: "phone-pouch.png" },
+    { name: "Mini Purse", price: 5000, image: "mini-purse.png" },
+    { name: "Hand Bag", price: 8000, image: "hand-bag.png" },
+    { name: "Tote Bag", price: 15000, image: "tote-bag.png" },
+    { name: "Backpack", price: 18000, image: "backpack.png" },
+    { name: "Face Cap", price: 5000, image: "face-cap.png" },
+    { name: "Bucket Hat", price: 6000, image: "bucket-hat.png" },
+    { name: "Top Shirt", price: 10000, image: "top-shirt.png" },
+    { name: "Socks", price: 4000, image: "socks.png" },
+    { name: "Cardigan", price: 18000, image: "cardigan.png" },
+    { name: "Scarf", price: 10000, image: "scarf.png" },
+    { name: "Amigurumi", price: 6000, image: "amigurumi.png" },
+    { name: "Flower Bouquet", price: 12000, image: "flower-bouquet.png" },
+    { name: "Mug Holder", price: 2500, image: "mug-holder.png" },
+    { name: "Plant Holder", price: 5000, image: "plant-holder.png" },
+    { name: "Storage Basket", price: 7000, image: "storage-basket.png" },
+    { name: "Headband", price: 2500, image: "headband.png" },
+    { name: "Bracelet", price: 1500, image: "bracelet.png" },
+    { name: "Crochet Flower", price: 2000, image: "crochet-flower.png" }
 ];
+
 
 
 /* =====================================================
